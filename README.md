@@ -23,8 +23,6 @@ This is a banking system project in C language. It allows users to create accoun
 2. Compile
 3. Run
 
-## Video Link
-Paste your Google Drive link here
 
 ## Contribution
 - Member 1: Coding
